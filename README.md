@@ -7,6 +7,7 @@
  - [instagram](https://www.instagram.com/zeesha.sheha/?igshid=1txgsgm7hfeg3)
  - [linkedin](http://linkedin.com/in/shehan-rashmika-76aa73161)
  - [twitter](https://twitter.com/SH_RASH)
+ - [stackoverflow](https://stackoverflow.com/users/9103981/shehan-rashmika-perera)
 
 ## Education Qualifications
 
