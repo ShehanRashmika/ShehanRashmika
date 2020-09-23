@@ -4,8 +4,9 @@
  - +94757647290
  - rashmikaperera8@gmail.com
  - [facebook](https://www.facebook.com/rashmika.perera.161)
- - [instagram](https://www.facebook.com/rashmika.perera.161)
- - [linkedin](https://www.facebook.com/rashmika.perera.161)
+ - [instagram](https://www.instagram.com/zeesha.sheha/?igshid=1txgsgm7hfeg3)
+ - [linkedin](http://linkedin.com/in/shehan-rashmika-76aa73161)
+ - [twitter](https://twitter.com/SH_RASH)
 
 ## Education Qualifications
 
@@ -26,13 +27,13 @@ Java Institute for Advanced Technology (Sri Lanka)
  - Web Development - Java EE, PHP, Spring
  - Mobile App Development(Android, Flutter, IOS)
 
-> Skill in following Programming languages and technologies
+> Skill in following Programming languages 
 
-- Java, Dart, Swift, Flutter, JavaScript, Html, Arduino, Electron, Node
+- Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin
 
-> Skill in following tools and frameworks
+> Skill in following tools and frameworks and technologies
 
-- Mysql, Ajax, Json, Firebase, Hibernate
+- Mysql, Ajax, Json, Firebase, Hibernate, Flutter, Arduino, Android, IOS, Git
 
 > Familiar in following IDE
 
