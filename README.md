@@ -88,6 +88,7 @@ Java Institute for Advanced Technology (Sri Lanka)
 > Flutter Projects
 
 - [Examiner Sri Lanka](https://play.google.com/store/apps/details?id=com.treinetic.examiner)
+- [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
 - Secret Book
 - Model App
 
