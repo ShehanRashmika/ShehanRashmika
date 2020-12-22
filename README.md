@@ -67,7 +67,8 @@ Java Institute for Advanced Technology (Sri Lanka)
 
 - “Software Shop” e-commerce Web Application
 - “Wine Shop” e-commerce Web Application
--  “Furniture Shop” e-commerce Web Application
+- “Furniture Shop” e-commerce Web Application
+
 > Android Projects
 
 - “Keti Satahana” Simple Note Saving App(Android)
@@ -91,6 +92,8 @@ Java Institute for Advanced Technology (Sri Lanka)
 - [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
 - Secret Book
 - Model App
+- [Yuthukama](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama)
+- [LOST](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp)
 
 > Flutter Plugins
 
