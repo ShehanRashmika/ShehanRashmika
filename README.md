@@ -1,7 +1,6 @@
 
 ## Contact Me
 
- - +94757647290
  - rashmikaperera8@gmail.com
  - [facebook](https://www.facebook.com/rashmika.perera.161)
  - [instagram](https://www.instagram.com/zeesha.sheha/?igshid=1txgsgm7hfeg3)
