@@ -94,6 +94,8 @@ Java Institute for Advanced Technology (Sri Lanka)
 - [Yuthukama](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama)
 - [LOST](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp)
 - [Kavi Potha](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha)
+- Tippy
+- Connect2Vpn
 
 > Flutter Plugins
 
