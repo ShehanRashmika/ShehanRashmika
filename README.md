@@ -98,6 +98,7 @@ Java Institute for Advanced Technology (Sri Lanka)
 > Flutter Plugins
 
 - [flutter_currency_converter](https://pub.dev/packages/flutter_currency_converter)
+- [firebase_backup_restore](https://pub.dev/packages/firebase_backup_restore)
 
 
 
