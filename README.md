@@ -58,6 +58,10 @@ Java Institute for Advanced Technology (Sri Lanka)
 - Inventory Control System
 - Laboratory Record System (for KAP (Pvt) Ltd)
 
+> Unity Projects
+
+- Rattle boom [android](https://play.google.com/store/apps/details?id=com.treinetic.rattleboom) [ios](https://apps.apple.com/lk/app/rattle-boom/id1483212936)
+
 > Arduino Projects
 
 - [Home Security System ](https://www.youtube.com/watch?v=bcVOemEk3p0&feature=youtu.be)
@@ -87,13 +91,13 @@ Java Institute for Advanced Technology (Sri Lanka)
 
 > Flutter Projects
 
-- [Examiner Sri Lanka](https://play.google.com/store/apps/details?id=com.treinetic.examiner)
+- Examiner Sri Lanka [android](https://play.google.com/store/apps/details?id=com.treinetic.examiner) [ios](https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
 - [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
 - Secret Book
 - Model App
-- [Yuthukama](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama)
-- [LOST](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp)
-- [Kavi Potha](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha)
+- Yuthukama [android](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama) 
+- LOST [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp) [ios](https://apps.apple.com/us/app/lost-sri-lanka/id1570300863)
+- Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [ios](https://apps.apple.com/us/app/kavi-potha/id1569350098)
 - Tippy
 - Connect2Vpn
 
