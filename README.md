@@ -12,11 +12,12 @@
 
 Java Institute for Advanced Technology (Sri Lanka)
 
-> Diploma in Software Engineering (SQA Level 7)
+>  Graduate Diploma in Software Engineering (SQA Level 9)
 
 >  Higher Diploma in Software Engineering (SQA Level 8)
 
->  Graduate Diploma in Software Engineering (SQA Level 9)
+> Diploma in Software Engineering (SQA Level 7)
+
 
 ## Professional Qualifications
 
@@ -46,6 +47,37 @@ Java Institute for Advanced Technology (Sri Lanka)
 - IntelliJ
 
 ## Projects I have done
+
+> Flutter Projects
+
+- [YJOZ](https://share.yjoz.com/download)
+- [IAExperience](https://play.google.com/store/apps/details?id=com.lootah.iaexp)
+- [LootahBiofuels](https://lootahbiofuels.page.link/download)
+- LBF Documents Verify app
+- YJOZ Config Server Dashboard
+- Examiner Sri Lanka [android](https://play.google.com/store/apps/details?id=com.treinetic.examiner) [ios](https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
+- [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
+- Secret Book
+- Model App
+- Yuthukama [android](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama) 
+- LOST [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp) [ios](https://apps.apple.com/us/app/lost-sri-lanka/id1570300863)
+- Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [ios](https://apps.apple.com/us/app/kavi-potha/id1569350098)
+- Kavi Potha Admin Dashboard
+- Tippy
+- Connect2Vpn
+- Involved
+- Evolution Football Sport(EFS)
+- Evolution Football Sport Admin Dashboard
+
+> Flutter Plugins
+
+- [releans_verify](https://pub.dev/packages/releans_verify)
+- [flutter_currency_converter](https://pub.dev/packages/flutter_currency_converter)
+- [firebase_backup_restore](https://pub.dev/packages/firebase_backup_restore)
+
+> Node JS 
+
+- Config server backend
 
 > Java SE Projects
 
@@ -88,25 +120,6 @@ Java Institute for Advanced Technology (Sri Lanka)
 - Gold Slot Game
 - Super Jack Game
 - Challenge Slot Game
-
-> Flutter Projects
-
-- Examiner Sri Lanka [android](https://play.google.com/store/apps/details?id=com.treinetic.examiner) [ios](https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
-- [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
-- Secret Book
-- Model App
-- Yuthukama [android](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama) 
-- LOST [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp) [ios](https://apps.apple.com/us/app/lost-sri-lanka/id1570300863)
-- Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [ios](https://apps.apple.com/us/app/kavi-potha/id1569350098)
-- Tippy
-- Connect2Vpn
-- Involved
-
-> Flutter Plugins
-
-- [flutter_currency_converter](https://pub.dev/packages/flutter_currency_converter)
-- [firebase_backup_restore](https://pub.dev/packages/firebase_backup_restore)
-
 
 
 
