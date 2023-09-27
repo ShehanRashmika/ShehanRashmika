@@ -50,18 +50,18 @@ Java Institute for Advanced Technology (Sri Lanka)
 
 > Flutter Projects
 
-- [YJOZ](https://share.yjoz.com/download)
-- [IAExperience](https://play.google.com/store/apps/details?id=com.lootah.iaexp)
-- [LootahBiofuels](https://lootahbiofuels.page.link/download)
+- YJOZ [android](https://play.google.com/store/apps/details?id=com.lootah.yjoz) [iOS](https://apps.apple.com/us/app/yjoz/id1638068042)
+- IAExperience [android](https://play.google.com/store/apps/details?id=com.lootah.iaexp) [iOS](https://apps.apple.com/us/app/iaexperience/id6444019275)
+- LootahBiofuels [android](https://play.google.com/store/apps/details?id=com.lootah.lbf) [iOS](https://apps.apple.com/us/app/lootah-biofuels/id6463200101)
 - LBF Documents Verify app
 - YJOZ Config Server Dashboard
-- Examiner Sri Lanka [android](https://play.google.com/store/apps/details?id=com.treinetic.examiner) [ios](https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
+- Examiner Sri Lanka [android](https://play.google.com/store/apps/details?id=com.treinetic.examiner) [iOS](https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
 - [Examiner ISTQB](https://play.google.com/store/apps/details?id=com.treinetic.examiner.istqb)
 - Secret Book
 - Model App
-- Yuthukama [android](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama) 
-- LOST [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp) [ios](https://apps.apple.com/us/app/lost-sri-lanka/id1570300863)
-- Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [ios](https://apps.apple.com/us/app/kavi-potha/id1569350098)
+- [Yuthukama](https://play.google.com/store/apps/details?id=com.treinetic.yuthukama) 
+- [LOST](https://play.google.com/store/apps/details?id=com.zeesha.sheha.lostapp)
+- Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [iOS](https://apps.apple.com/us/app/kavi-potha/id1569350098)
 - Kavi Potha Admin Dashboard
 - Tippy
 - Connect2Vpn
