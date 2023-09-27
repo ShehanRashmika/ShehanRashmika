@@ -99,8 +99,8 @@
 
 > Java SE Projects
 
-- (Truck Diagnostic Software)[https://youtu.be/E3YZ4tA0egs]
-- (Volvo Truck VIN Decoder)[https://youtu.be/TPTVQDbb_Fg]
+- [Truck Diagnostic Software](https://youtu.be/E3YZ4tA0egs)
+- [Volvo Truck VIN Decoder](https://youtu.be/TPTVQDbb_Fg)
 - [Hotel Management System ](https://www.youtube.com/watch?v=tsCv-ZVNsVg&ab_channel=TechnogenSoftwares)
 - [Hospital Management System ](https://www.youtube.com/watch?v=lMevqM0oGuo)
 - [Inter house Communication System](https://www.youtube.com/watch?v=hkMceLM0Fac)
