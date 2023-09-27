@@ -18,9 +18,7 @@
 > Java Institute for Advanced Technology (Sri Lanka)
 
  - Graduate Diploma in Software Engineering (SQA Level 9)
- 
  - Higher Diploma in Software Engineering (SQA Level 8)
- 
  - Diploma in Software Engineering (SQA Level 7)
 
 
@@ -38,19 +36,27 @@
 
 - Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin, JS, Php
 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30" height="30">&nbsp;
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30" height="30">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="30" height="30">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30" height="30">
 
 > Skills in the following tools, frameworks, and technologies
 
 - Flutter, Ajax, Json, Firebase, Hibernate, MySql, Arduino, Android, IOS, Git, CI/CD, Spring, Swagger, Github, SoapUI
 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30">&nbsp;
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30">&nbsp;
 <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="30" height="30">&nbsp;
-<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30">
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="30" height="30">
 
 > Familiar with the following IDEs
 
@@ -62,7 +68,7 @@
 - Eclipse
 - IntelliJ
 
-<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="30" height="30">
+&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="30" height="30">
 
 ## Projects I have done and contributed to
 
