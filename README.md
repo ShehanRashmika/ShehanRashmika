@@ -10,13 +10,13 @@
 
 ## Education Qualifications
 
-Java Institute for Advanced Technology (Sri Lanka)
+> Java Institute for Advanced Technology (Sri Lanka)
 
-- Graduate Diploma in Software Engineering (SQA Level 9)
-
-- Higher Diploma in Software Engineering (SQA Level 8)
-
-- Diploma in Software Engineering (SQA Level 7)
+ - Graduate Diploma in Software Engineering (SQA Level 9)
+ 
+ - Higher Diploma in Software Engineering (SQA Level 8)
+ 
+ - Diploma in Software Engineering (SQA Level 7)
 
 
 ## Professional Qualifications
@@ -31,11 +31,11 @@ Java Institute for Advanced Technology (Sri Lanka)
 
 > Skills in the following programming languages
 
-- Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin
+- Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin, JS, Php
 
 > Skills in the following tools, frameworks, and technologies
 
-- Mysql, Ajax, Json, Firebase, Hibernate, Flutter, Arduino, Android, IOS, Git
+- Flutter, Ajax, Json, Firebase, Hibernate, MySql, Arduino, Android, IOS, Git, CI/CD, Spring, Swagger, Github, SoapUI
 
 > Familiar with the following IDEs
 
@@ -99,6 +99,8 @@ Java Institute for Advanced Technology (Sri Lanka)
 
 > Java SE Projects
 
+- (Truck Diagnostic Software)[https://youtu.be/E3YZ4tA0egs]
+- (Volvo Truck VIN Decoder)[https://youtu.be/TPTVQDbb_Fg]
 - [Hotel Management System ](https://www.youtube.com/watch?v=tsCv-ZVNsVg&ab_channel=TechnogenSoftwares)
 - [Hospital Management System ](https://www.youtube.com/watch?v=lMevqM0oGuo)
 - [Inter house Communication System](https://www.youtube.com/watch?v=hkMceLM0Fac)
