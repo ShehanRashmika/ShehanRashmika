@@ -99,12 +99,10 @@
 
 > Java SE Projects
 
-- [Truck Diagnostic Software](https://youtu.be/E3YZ4tA0egs)
-- [Volvo Truck VIN Decoder](https://youtu.be/TPTVQDbb_Fg)
 - [Hotel Management System](https://www.youtube.com/watch?v=tsCv-ZVNsVg&ab_channel=TechnogenSoftwares)
 - [Hospital Management System](https://www.youtube.com/watch?v=lMevqM0oGuo)
 - [Inter house Communication System](https://www.youtube.com/watch?v=hkMceLM0Fac)
-- [“MiR” Fault Code Finder Software](https://www.youtube.com/watch?v=E3YZ4tA0egs)
+- [“MiR” Truck Fault Code Finder Software](https://www.youtube.com/watch?v=E3YZ4tA0egs)
 - ["VIN Finder" Vehicle Identification Number Finder](https://youtu.be/TPTVQDbb_Fg)
 - Koobiyo Life Solutions Software
 - Inventory Control System
