@@ -2,7 +2,7 @@
 ## Contact Me
 
  - rashmikaperera8@gmail.com
- - [facebook](https://www.facebook.com/rashmika.perera.161)
+ - <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"> [facebook](https://www.facebook.com/rashmika.perera.161)
  - [instagram](https://www.instagram.com/zeesha.sheha/?igshid=1txgsgm7hfeg3)
  - [linkedin](http://linkedin.com/in/shehan-rashmika-76aa73161)
  - [twitter](https://twitter.com/SH_RASH)
