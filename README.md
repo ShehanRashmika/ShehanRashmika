@@ -38,9 +38,19 @@
 
 - Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin, JS, Php
 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30" height="30">
+
 > Skills in the following tools, frameworks, and technologies
 
 - Flutter, Ajax, Json, Firebase, Hibernate, MySql, Arduino, Android, IOS, Git, CI/CD, Spring, Swagger, Github, SoapUI
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="30" height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="30" height="30">
 
 > Familiar with the following IDEs
 
@@ -51,6 +61,8 @@
 - Xcode
 - Eclipse
 - IntelliJ
+
+<img src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg" width="30" height="30">
 
 ## Projects I have done and contributed to
 
