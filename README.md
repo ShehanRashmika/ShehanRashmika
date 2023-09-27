@@ -12,31 +12,32 @@
 
 Java Institute for Advanced Technology (Sri Lanka)
 
->  Graduate Diploma in Software Engineering (SQA Level 9)
+- Graduate Diploma in Software Engineering (SQA Level 9)
 
->  Higher Diploma in Software Engineering (SQA Level 8)
+- Higher Diploma in Software Engineering (SQA Level 8)
 
-> Diploma in Software Engineering (SQA Level 7)
+- Diploma in Software Engineering (SQA Level 7)
 
 
 ## Professional Qualifications
 
-> Knowledge in following concepts and methods
+> Knowledge of the following concepts and methods
 
  - Object-Oriented Programming Concepts (OOPC)
- - Software Development - Java SE, Electron
- - Web Development - Java EE, PHP, Spring
- - Mobile App Development(Android, Flutter, IOS)
+ - Desktop Software Development - Java SE, Electron, Flutter
+ - Web Applications Development - Java EE, PHP, Spring, Flutter, Node
+ - Mobile Applications Development - Android, Flutter, IOS
+ - Deploying and managing applications and services on the Amazon Web Services (AWS) cloud platform
 
-> Skill in following Programming languages 
+> Skills in the following programming languages
 
 - Java, Dart, Swift, JavaScript, Html, C#, Electron, Node, Kotlin
 
-> Skill in following tools and frameworks and technologies
+> Skills in the following tools, frameworks, and technologies
 
 - Mysql, Ajax, Json, Firebase, Hibernate, Flutter, Arduino, Android, IOS, Git
 
-> Familiar in following IDE
+> Familiar with the following IDEs
 
 - Android Studio
 - Netbeans
@@ -46,7 +47,7 @@ Java Institute for Advanced Technology (Sri Lanka)
 - Eclipse
 - IntelliJ
 
-## Projects I have done
+## Projects I have done and contributed to
 
 > Flutter Projects
 
@@ -64,8 +65,8 @@ Java Institute for Advanced Technology (Sri Lanka)
 - Kavi Potha [android](https://play.google.com/store/apps/details?id=com.zeesha.sheha.kavipotha) [iOS](https://apps.apple.com/us/app/kavi-potha/id1569350098)
 - Kavi Potha Admin Dashboard
 - Tippy
-- Connect2Vpn
-- Involved
+- Connect2Vpn [android](https://play.google.com/store/apps/details?id=com.connect2vpn.app&hl=en&gl=US) [iOS](https://apps.apple.com/in/app/connect2vpn/id1565775173)
+- Involved [android](https://play.google.com/store/apps/details?id=com.getinvolved.app) [iOS](https://apps.apple.com/us/app/involved-local-communities/id1584285770)
 - Evolution Football Sport(EFS)
 - Evolution Football Sport Admin Dashboard
 
@@ -74,6 +75,23 @@ Java Institute for Advanced Technology (Sri Lanka)
 - [releans_verify](https://pub.dev/packages/releans_verify)
 - [flutter_currency_converter](https://pub.dev/packages/flutter_currency_converter)
 - [firebase_backup_restore](https://pub.dev/packages/firebase_backup_restore)
+
+> Android Projects
+
+- “Keti Satahana” Simple Note Saving App(Android)
+- [The Developer Hub](https://play.google.com/store/apps/details?id=com.zeesha.sheha.developerhub)
+- [Global Notes](https://play.google.com/store/apps/details?id=com.zeesha.sheha.freenotes)
+- [Sensor Checker](https://play.google.com/store/apps/details?id=com.zeesha.sheha.sensor_checker)
+- [Easy TTS Lite](https://play.google.com/store/apps/details?id=com.zeesha.sheha.tts)
+- [National heroes in Sri Lanka](https://play.google.com/store/apps/details?id=com.zeesha.sheha.sl_heroes)
+- [Vidz Downloader](https://play.google.com/store/apps/details?id=com.dilan.vid.vidz_downloader)
+
+> IOS Projects
+
+- Royal Poker Game
+- Gold Slot Game
+- Super Jack Game
+- Challenge Slot Game
 
 > Node JS 
 
@@ -103,23 +121,6 @@ Java Institute for Advanced Technology (Sri Lanka)
 - “Software Shop” e-commerce Web Application
 - “Wine Shop” e-commerce Web Application
 - “Furniture Shop” e-commerce Web Application
-
-> Android Projects
-
-- “Keti Satahana” Simple Note Saving App(Android)
-- [The Developer Hub](https://play.google.com/store/apps/details?id=com.zeesha.sheha.developerhub)
-- [Global Notes](https://play.google.com/store/apps/details?id=com.zeesha.sheha.freenotes)
-- [Sensor Checker](https://play.google.com/store/apps/details?id=com.zeesha.sheha.sensor_checker)
-- [Easy TTS Lite](https://play.google.com/store/apps/details?id=com.zeesha.sheha.tts)
-- [National heroes in Sri Lanka](https://play.google.com/store/apps/details?id=com.zeesha.sheha.sl_heroes)
-- [Vidz Downloader](https://play.google.com/store/apps/details?id=com.dilan.vid.vidz_downloader)
-
-> IOS Projects
-
-- Royal Poker Game
-- Gold Slot Game
-- Super Jack Game
-- Challenge Slot Game
 
 
 
