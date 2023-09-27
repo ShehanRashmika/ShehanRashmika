@@ -2,15 +2,15 @@
 ## Contact Me
 
 <a href="mailto:rashmikaperera8@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30" height="30"></a>
-<span style="margin-right: 5px;"></span>
+&nbsp;
 <a href="https://www.facebook.com/rashmika.perera.161"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30" height="30"></a>
-<span style="margin-right: 5px;"></span>
+&nbsp;
 <a href="https://www.instagram.com/zeesha.sheha/?igshid=1txgsgm7hfeg3"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="30" height="30"></a>
-<span style="margin-right: 5px;"></span>
+&nbsp;
 <a href="http://linkedin.com/in/shehan-rashmik"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="30" height="30"></a>
-<span style="margin-right: 5px;"></span>
+&nbsp;
 <a href="https://stackoverflow.com/users/9103981/shehan-rashmika-perera"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" width="30" height="30"></a>
-<span style="margin-right: 5px;"></span>
+&nbsp;
 <a href="https://twitter.com/SH_RASH"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="30" height="30"></a>
 
 ## Education Qualifications
