@@ -1,7 +1,7 @@
 
 ## Contact Me
 
-<a href="mailto:rashmikaperera8@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30"></a>
+<a href="mailto:rashmikaperera8@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30" height="30"></a>
 &nbsp;
 <a href="https://www.facebook.com/rashmika.perera.161"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30" height="30"></a>
 &nbsp;
